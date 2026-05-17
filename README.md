@@ -150,4 +150,4 @@ This project was developed for COMP3520 (Special Topics in Data Science), The Un
 
 ## Disclaimer
 
-This repository is for academic and research purposes only. The obfuscation scores produced by this model are not investment advice. The findings reflect a single sample window (2023–2025) and a specific institutional setting (HKEX) and should not be assumed to generalise without further testing.
+This repository is for academic and research purposes only. The obfuscation scores produced by this model are not investment advice. The findings should not be assumed to generalise without further testing.
